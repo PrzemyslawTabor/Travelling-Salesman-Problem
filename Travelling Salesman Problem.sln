@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelling Salesman Problem", "Travelling Salesman Problem\Travelling Salesman Problem.csproj", "{31DA70F4-F50E-43A5-A02C-F6B687810380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DA70F4-F50E-43A5-A02C-F6B687810380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DA70F4-F50E-43A5-A02C-F6B687810380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DA70F4-F50E-43A5-A02C-F6B687810380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DA70F4-F50E-43A5-A02C-F6B687810380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8185B724-E74F-49CE-B86D-DC2C22613B34}
+	EndGlobalSection
+EndGlobal
