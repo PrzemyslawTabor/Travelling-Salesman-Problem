@@ -6,4 +6,14 @@
     <RootNamespace>Travelling_Salesman_Problem</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="berlin52.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="berlin52.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

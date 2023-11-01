@@ -34,7 +34,7 @@ namespace Travelling_Salesman_Problem
         /// </summary>
         private void loadDataFromFile()
         {
-            using (StreamReader sr = new StreamReader(@"C:\Users\Lookacz\Desktop\Berlin52.txt"))
+            using (StreamReader sr = new StreamReader("Berlin52.txt"))
             {
                 population = Convert.ToInt32(sr.ReadLine());
                 distanceTab = new int[population, population];
